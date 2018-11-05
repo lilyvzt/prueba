@@ -9,7 +9,7 @@
 <html>
 
 <head>
-	<title>Conceit a Corporate Category Bootstrap Responsive Web Template | Home :: w3layouts</title>
+	<title>Liliana, Judith & Laurita</title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,7 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						</ul>
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Home</a></li>
+							<li class="active"><a href="index.html">Inicio</a></li>
 							<li><a href="about.html">About</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
 							<li><a href="contact.html">Contact</a></li>
